@@ -1,0 +1,6 @@
+[submodule "SnekMomma/Packages/AmoaebaUtils"]
+	path = SnekMomma/Packages/AmoaebaUtils
+	url = https://github.com/Celcius/AmoaebaUtils.git
+[submodule "SnekMomma/Assets/Packages"]
+	path = SnekMomma/Assets/Packages
+	url = https://github.com/Celcius/AmoaebaUtils.git
